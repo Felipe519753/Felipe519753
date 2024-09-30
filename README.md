@@ -1,6 +1,4 @@
 
-
-<!--
 ### Boas vindas ao meu perfil :blue_heart 
 
 Meu nome é Felipe Santana 
@@ -14,4 +12,3 @@ Meu nome é Felipe Santana
 0000109270534xsp@al.educacao.sp.gov.br 
 
 ![descrição do GIF](https://tenor.com/bDEyS.gif)
--->
